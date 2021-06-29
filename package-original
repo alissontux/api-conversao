@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alissontux/api-conversao.git"
+    "url": "git+https://github.com/KubeDev/api-conversao.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alissontux/api-conversao/issues"
+    "url": "https://github.com/KubeDev/api-conversao/issues"
   },
-  "homepage": "https://github.com/alissontux/api-conversao#readme",
+  "homepage": "https://github.com/KubeDev/api-conversao#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nodehog": "^0.1.2",
